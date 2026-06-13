@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="" />/># Personal Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website created for Task 4: AI Website Generation.  
 The website is designed to introduce myself, show my skills, display my projects, and provide contact information.
